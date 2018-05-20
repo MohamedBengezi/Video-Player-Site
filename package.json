@@ -1,11 +1,11 @@
 {
-  "name": "redux-simple-starter",
+  "name": "video-player-site",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/StephenGrider/ReduxSimpleStarter.git"
+    "url": "git@github.com:MohamedBengezi/Video-Player-Site.git"
   },
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
@@ -38,9 +38,9 @@
     "youtube-api-search": "0.0.5"
   },
   "bugs": {
-    "url": "https://github.com/StephenGrider/ReduxSimpleStarter/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/StephenGrider/ReduxSimpleStarter#readme",
+  "homepage": "",
   "directories": {
     "test": "test"
   }
