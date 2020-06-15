@@ -3,8 +3,8 @@ This is a React JS project that uses the YouTube API. The purpose of this was si
 ## Getting Started
 1. Clone the repo or download the ZIP file
 2. Run `npm install`
-3. Get a YouTube API Key and place it in the index.js file, assigning it `const API_KEY = 'YOUR API KEY' 
-3. Run `npm start`
-4. Navigate to http://localhost:8080/
+3. Get a YouTube API Key and place it in the index.js file, assigning it `const API_KEY = 'YOUR API KEY'. Please note you must have the YouTube Data API enabled on your google account
+4. Run `npm start`
+5. Navigate to http://localhost:8080/
 
 ![ScreenShot](Screenshot.PNG)
